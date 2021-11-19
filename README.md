@@ -5,12 +5,14 @@ https://docs.tweepy.org/en/stable/
 
 Need to use the DotEnv Python to load in the .env file to supply the Tweet Id, Twitter API keys, ect. 
 
+```
 TWITTER_APP_KEY = XXXXXXXX
 TWITTER_APP_SECRET = XXXXXXXX
 TWITTER_KEY = XXXXXXXX
 TWITTER_SECRET = XXXXXXXX
 STATUS_ID = XXXXXXXX
 USER_ID = XXXXXXXX
+```
 
 https://pypi.org/project/python-dotenv/
 
